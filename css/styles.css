@@ -1,0 +1,62 @@
+/* SELECTORS */
+body{
+	font-family: 'Righteous', cursive;
+	text-align: center;
+}
+
+img{
+	border-radius: 100%;
+	width: 150px;
+	height: 150px;
+}
+
+
+/* CLASSES */
+.navbar{
+	margin-bottom: 20px;
+	padding: 7% 15%;
+	background-color: black;
+}
+
+.navbar-brand{
+	font-size: 1.5rem;
+	font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 15px;
+}
+
+.nav-item{
+	font-weight: lighter;
+}
+
+.about-me{
+	text-align: center;
+	margin: 100px auto;
+	line-height: 2;
+	width: 30%;
+}
+
+
+.education{
+	margin: 100px auto;
+}
+
+.work-experience{
+	text-align: center;
+	margin: 100px auto;
+}
+
+.experience-list{
+	width:100%;
+}
+
+.colored-section{
+	background-color: black;
+	color:white;
+}
+
+#footer{
+	margin: 100px auto;
+}
